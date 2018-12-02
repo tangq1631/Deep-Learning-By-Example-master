@@ -1,5 +1,4 @@
 # Deep-Learning-By-Example-master
-# Deep-Learning-By-Example-master
 # 判别器和生成器损耗
 
 在这一部分中, 我们需要定义判别器和生成器损耗, 这可以被认为是此实现中最棘手的部分。
